@@ -1,0 +1,10 @@
+# Required Packages ####
+install.packages("RMySQL",repos='http://cran.us.r-project.org')
+install.packages('SASxport',repos='http://cran.us.r-project.org')
+install.packages('knitr',repos='http://cran.us.r-project.org')
+install.packages("haven",repos='http://cran.us.r-project.org')
+install.packages('readxl',repos='http://cran.us.r-project.org')
+install.packages('SASxport',repos='http://cran.us.r-project.org')
+install.packages('dplyr',repos='http://cran.us.r-project.org')
+install.packages('tidyr',repos='http://cran.us.r-project.org')
+install.packages('rtf',,repos='http://cran.us.r-project.org')
